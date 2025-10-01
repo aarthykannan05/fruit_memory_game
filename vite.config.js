@@ -7,4 +7,3 @@ export default defineConfig({
   base: '/fruit_memory_game/',
 })
 
-// https://github.com/aarthykannan05/fruit_memory_game
